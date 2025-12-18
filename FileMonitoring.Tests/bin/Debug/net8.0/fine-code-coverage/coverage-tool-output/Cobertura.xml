@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.894308943089431" branch-rate="0.5625" lines-covered="220" lines-valid="246" branches-covered="9" branches-valid="16" complexity="61" version="0" timestamp="1766085457">
+<coverage line-rate="0.894308943089431" branch-rate="0.5625" lines-covered="220" lines-valid="246" branches-covered="9" branches-valid="16" complexity="61" version="0" timestamp="1766091011">
   <sources />
   <packages>
     <package name="FileMonitoring.API" line-rate="0.510204081632653" branch-rate="0.25" complexity="9">
       <classes>
-        <class name="FileMonitoring.API.Controllers.FileController" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.API\Controllers\FileController.cs" line-rate="1" branch-rate="1" complexity="5">
+        <class name="FileMonitoring.API.Controllers.FileController" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.API\Controllers\FileController.cs" line-rate="1" branch-rate="1" complexity="5">
           <methods>
             <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -77,7 +77,7 @@
             <line number="58" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="Program" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.API\Program.cs" line-rate="0" branch-rate="0" complexity="4">
+        <class name="Program" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.API\Program.cs" line-rate="0" branch-rate="0" complexity="4">
           <methods>
             <method name="&lt;Main&gt;$" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
               <lines>
@@ -139,7 +139,7 @@
     </package>
     <package name="FileMonitoring.Application" line-rate="0.983606557377049" branch-rate="0.875" complexity="11">
       <classes>
-        <class name="FileMonitoring.Application.Services.FileProcessingService" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Application\Services\FileProcessingService.cs" line-rate="0.983606557377049" branch-rate="0.875" complexity="11">
+        <class name="FileMonitoring.Application.Services.FileProcessingService" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Application\Services\FileProcessingService.cs" line-rate="0.983606557377049" branch-rate="0.875" complexity="11">
           <methods>
             <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -287,7 +287,7 @@
     </package>
     <package name="FileMonitoring.Domain" line-rate="0.888888888888889" branch-rate="1" complexity="19">
       <classes>
-        <class name="FileMonitoring.Domain.Entities.ProcessedFile" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\Entities\ProcessedFile.cs" line-rate="0.888888888888889" branch-rate="1" complexity="19">
+        <class name="FileMonitoring.Domain.Entities.ProcessedFile" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Domain\Entities\ProcessedFile.cs" line-rate="0.888888888888889" branch-rate="1" complexity="19">
           <methods>
             <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -408,7 +408,7 @@
     </package>
     <package name="FileMonitoring.Infrastructure" line-rate="1" branch-rate="1" complexity="4">
       <classes>
-        <class name="FileMonitoring.Infrastructure.Persistence.AppDbContext" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\Persistence\AppDbContext.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="FileMonitoring.Infrastructure.Persistence.AppDbContext" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Infrastructure\Persistence\AppDbContext.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -450,7 +450,7 @@
     </package>
     <package name="FileMonitoring.Tests" line-rate="1" branch-rate="1" complexity="18">
       <classes>
-        <class name="FileMonitoring.Tests.Controllers.FileControllerTests" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Tests\Controllers\FileControllerTests.cs" line-rate="1" branch-rate="1" complexity="9">
+        <class name="FileMonitoring.Tests.Controllers.FileControllerTests" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Tests\Controllers\FileControllerTests.cs" line-rate="1" branch-rate="1" complexity="9">
           <methods>
             <method name="GetContext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -640,7 +640,7 @@
             <line number="130" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="FileMonitoring.Tests.Controllers.FileControllerTests.StubFileProcessingService" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Tests\Controllers\FileControllerTests.cs" line-rate="1" branch-rate="1" complexity="5">
+        <class name="FileMonitoring.Tests.Controllers.FileControllerTests.StubFileProcessingService" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Tests\Controllers\FileControllerTests.cs" line-rate="1" branch-rate="1" complexity="5">
           <methods>
             <method name="get_Called" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -682,7 +682,7 @@
             <line number="39" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="FileMonitoring.Tests.Services.FileProcessingServiceTests" filename="C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Tests\Services\FileProcessingServiceTests.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="FileMonitoring.Tests.Services.FileProcessingServiceTests" filename="C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Tests\Services\FileProcessingServiceTests.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="GetContext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

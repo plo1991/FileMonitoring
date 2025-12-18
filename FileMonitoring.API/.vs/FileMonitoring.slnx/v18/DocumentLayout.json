@@ -1,15 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B9F520-E8F5-AC22-E17F-B6D42F87E25D}|..\\FileMonitoring.Application\\FileMonitoring.Application.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.application\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.API\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -17,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileProcessingService.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
-              "RelativeDocumentMoniker": "..\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
-              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
-              "RelativeToolTip": "..\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwCwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:12:14.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Controllers\\FileController.cs",
-              "RelativeToolTip": "Controllers\\FileController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:11:55.871Z",
-              "EditorCaption": ""
             }
           ]
         }

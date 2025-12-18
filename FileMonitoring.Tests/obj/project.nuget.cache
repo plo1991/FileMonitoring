@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qo0bqmtlZJI=",
+  "dgSpecHash": "AdzT842aL5o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Tests\\FileMonitoring.Tests.csproj",
+  "projectFilePath": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Tests\\FileMonitoring.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo.silva\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\paulo.silva\\.nuget\\packages\\fluentassertions\\8.8.0\\fluentassertions.8.8.0.nupkg.sha512",

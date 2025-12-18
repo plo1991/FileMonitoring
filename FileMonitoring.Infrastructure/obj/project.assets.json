@@ -1201,11 +1201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Infrastructure\\FileMonitoring.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Infrastructure\\FileMonitoring.Infrastructure.csproj",
       "projectName": "FileMonitoring.Infrastructure",
-      "projectPath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Infrastructure\\FileMonitoring.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Infrastructure\\FileMonitoring.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\paulo.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1227,8 +1227,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Domain\\FileMonitoring.Domain.csproj": {
-              "projectPath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Domain\\FileMonitoring.Domain.csproj"
+            "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Domain\\FileMonitoring.Domain.csproj": {
+              "projectPath": "C:\\Users\\paulo.silva\\Documents\\GitHub\\FileMonitoring\\FileMonitoring.Domain\\FileMonitoring.Domain.csproj"
             }
           }
         }

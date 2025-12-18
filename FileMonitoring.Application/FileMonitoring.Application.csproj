@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Validators\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\FileMonitoring.Infrastructure\FileMonitoring.Infrastructure.csproj" />
   </ItemGroup>
 
