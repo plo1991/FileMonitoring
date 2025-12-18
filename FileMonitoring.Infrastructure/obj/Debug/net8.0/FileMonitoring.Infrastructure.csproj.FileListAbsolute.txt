@@ -1,0 +1,15 @@
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\bin\Debug\net8.0\FileMonitoring.Infrastructure.deps.json
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\bin\Debug\net8.0\FileMonitoring.Infrastructure.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\bin\Debug\net8.0\FileMonitoring.Infrastructure.pdb
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\bin\Debug\net8.0\FileMonitoring.Domain.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\bin\Debug\net8.0\FileMonitoring.Domain.pdb
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.AssemblyInfo.cs
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMoni.1F5A955A.Up2Date
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\refint\FileMonitoring.Infrastructure.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\FileMonitoring.Infrastructure.pdb
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Infrastructure\obj\Debug\net8.0\ref\FileMonitoring.Infrastructure.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../FileMonitoring.Application/FileMonitoring.Application.csproj" />
+  <Project Path="../FileMonitoring.Domain/FileMonitoring.Domain.csproj" />
+  <Project Path="../FileMonitoring.Infrastructure/FileMonitoring.Infrastructure.csproj" />
+  <Project Path="../FileMonitoring.Tests/FileMonitoring.Tests.csproj" />
+  <Project Path="FileMonitoring.API.csproj" />
+</Solution>

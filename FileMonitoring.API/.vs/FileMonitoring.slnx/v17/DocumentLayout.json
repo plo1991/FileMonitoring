@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FD73C-C5B6-D11F-AB1D-A250C6F10E4E}|FileMonitoring.API.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9F520-E8F5-AC22-E17F-B6D42F87E25D}|..\\FileMonitoring.Application\\FileMonitoring.Application.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.application\\services\\fileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9F520-E8F5-AC22-E17F-B6D42F87E25D}|..\\FileMonitoring.Application\\FileMonitoring.Application.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.application\\interfaces\\ifileprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E185B622-B22D-B910-D028-178BD5416B60}|..\\FileMonitoring.Infrastructure\\FileMonitoring.Infrastructure.csproj|c:\\users\\paulo.silva\\source\\repos\\filemonitoring\\filemonitoring.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:04:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.API\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Controllers\\FileController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:03:39.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
+              "RelativeDocumentMoniker": "..\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
+              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
+              "RelativeToolTip": "..\\FileMonitoring.Application\\Services\\FileProcessingService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:02:20.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Interfaces\\IFileProcessingService.cs",
+              "RelativeDocumentMoniker": "..\\FileMonitoring.Application\\Interfaces\\IFileProcessingService.cs",
+              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Application\\Interfaces\\IFileProcessingService.cs",
+              "RelativeToolTip": "..\\FileMonitoring.Application\\Interfaces\\IFileProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:01:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FileMonitoring.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\paulo.silva\\source\\repos\\FileMonitoring\\FileMonitoring.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\FileMonitoring.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:58:49.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
