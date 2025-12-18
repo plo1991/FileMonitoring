@@ -1,9 +1,5 @@
 # FileMonitoring
 Case Técnico – Desenvolvedor Sênior Full Stack Linx
-
-
-# FileMonitoring
-
 Sistema para monitoramento de arquivos financeiros (UfCard e FagammonCard).
 
 ## 🚀 Tecnologias
