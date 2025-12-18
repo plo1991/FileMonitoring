@@ -1,0 +1,22 @@
+﻿using FileMonitoring.Domain.Entities;
+using System.Collections.Concurrent;
+
+namespace FileMonitoring.Infrastructure.Persistence;
+
+public class AppDbContext
+{
+    private readonly ConcurrentBag<ProcessedFile> _store = new();
+
+    public IQueryable<ProcessedFile> ProcessedFiles => _store.ToArray().AsQueryable();
+
+    public Task AddProcessedFileAsync(ProcessedFile file)
+    {
+        _store.Add(file);
+        return Task.CompletedTask;
+    }
+
+    public Task<int> SaveChangesAsync()
+    {
+        return Task.FromResult(0);
+    }
+}

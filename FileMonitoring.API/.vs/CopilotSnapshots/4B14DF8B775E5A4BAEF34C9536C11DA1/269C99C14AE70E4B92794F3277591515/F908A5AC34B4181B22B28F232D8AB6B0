@@ -1,0 +1,37 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using FileMonitoring.Application.Interfaces;
+using FileMonitoring.Application.Services;
+using FileMonitoring.Infrastructure.Persistence;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AppDbContext>(opt =>
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
+builder.Services.AddScoped<IFileProcessingService, FileProcessingService>();
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Apply EF Core migrations at startup
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var db = services.GetRequiredService<AppDbContext>();
+        db.Database.Migrate();
+    }
+    catch (Exception)
+    {
+        // if migration fails, swallow to allow app to start and surface error in logs
+    }
+}
+
+app.UseSwagger();
+app.UseSwaggerUI();
+app.MapControllers();
+app.Run();

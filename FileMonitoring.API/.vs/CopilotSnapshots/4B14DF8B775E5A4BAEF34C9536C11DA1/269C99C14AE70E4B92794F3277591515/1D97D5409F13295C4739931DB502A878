@@ -1,0 +1,11 @@
+﻿using FileMonitoring.Domain.Entities;
+
+namespace FileMonitoring.Infrastructure.Persistence;
+
+public class AppDbContext : DbContext
+{
+    public DbSet<ProcessedFile> ProcessedFiles => Set<ProcessedFile>();
+
+    public AppDbContext(DbContextOptions<AppDbContext> options)
+        : base(options) { }
+}

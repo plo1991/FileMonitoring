@@ -1,0 +1,7 @@
+﻿
+namespace FileMonitoring.Application.Interfaces;
+
+public interface IFileProcessingService
+{
+    Task ProcessAsync(IFormFile file);
+}

@@ -1,0 +1,43 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace FileMonitoring.API.Controllers
+{
+    [ApiController]
+    [Route("api/files")]
+    public class FileController : ControllerBase
+    {
+        private readonly IFileProcessingService _service;
+
+        public FileController(IFileProcessingService service)
+        {
+            _service = service;
+        }
+
+        [HttpPost("upload")]
+        public async Task<IActionResult> Upload(IFormFile file)
+        {
+            await _service.ProcessAsync(file);
+            return Ok();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAll([FromServices] AppDbContext context)
+        {
+            var files = await context.ProcessedFiles
+                .OrderByDescending(x => x.CreatedAt)
+                .ToListAsync();
+
+            return Ok(files);
+        }
+
+        [HttpGet("summary")]
+        public async Task<IActionResult> Summary([FromServices] AppDbContext context)
+        {
+            var received = await context.ProcessedFiles.CountAsync(x => x.Status == FileStatus.Recepcionado);
+            var notReceived = await context.ProcessedFiles.CountAsync(x => x.Status == FileStatus.NaoRecepcionado);
+
+            return Ok(new { received, notReceived });
+        }
+    }
+
+}

@@ -1,0 +1,11 @@
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\bin\Debug\net8.0\FileMonitoring.Domain.deps.json
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\bin\Debug\net8.0\FileMonitoring.Domain.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\bin\Debug\net8.0\FileMonitoring.Domain.pdb
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.AssemblyInfo.cs
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\refint\FileMonitoring.Domain.dll
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\FileMonitoring.Domain.pdb
+C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Domain\obj\Debug\net8.0\ref\FileMonitoring.Domain.dll
