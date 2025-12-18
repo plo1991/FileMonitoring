@@ -63,14 +63,14 @@ O banco de dados é populado através do upload de arquivos na interface web. O 
 #### 1. UfCard (Inicia com "0")
 Exemplo de linha válida:
 ```text
-0          20241218        20241201        20241231       0000001UFCARD  
+0          20251218        20251201        20251231       0000001UFCARD   
 ```
 *(Certifique-se de respeitar o posicionamento dos caracteres)*
 
 #### 2. FagammonCard (Inicia com "1")
 Exemplo de linha válida:
 ```text
-120241218        FAGAMMONCARD0000001
+120251218        FAGAMMONCARD0000001
 ```
 
 ### Instruções
