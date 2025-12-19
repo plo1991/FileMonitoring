@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="FileStorage\" />
-    <Folder Include="Cache\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\FileMonitoring.Domain\FileMonitoring.Domain.csproj" />
   </ItemGroup>
 

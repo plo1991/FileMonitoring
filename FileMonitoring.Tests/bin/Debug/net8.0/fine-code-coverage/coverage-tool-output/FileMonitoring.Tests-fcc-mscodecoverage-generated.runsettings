@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RunSettings>
   <RunConfiguration>
-    <ResultsDirectory>C:\Users\paulo.silva\source\repos\FileMonitoring\FileMonitoring.Tests\bin\Debug\net8.0\fine-code-coverage\coverage-tool-output</ResultsDirectory>
+    <ResultsDirectory>C:\Users\paulo.silva\Documents\GitHub\FileMonitoring\FileMonitoring.Tests\bin\Debug\net8.0\fine-code-coverage\coverage-tool-output</ResultsDirectory>
     <TestAdaptersPaths>C:\Users\paulo.silva\AppData\Local\FineCodeCoverage\msCodeCoverage\17.13.0\build\netstandard2.0</TestAdaptersPaths>
     <CollectSourceInformation>False</CollectSourceInformation>
   </RunConfiguration>
